@@ -1,0 +1,14 @@
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/CMakeFiles/Experimental.dir
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/CMakeFiles/Nightly.dir
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/CMakeFiles/Continuous.dir
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/CMakeFiles/PACKAGE.dir
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/Src/CMakeFiles/main.dir
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/Src/CMakeFiles/PACKAGE.dir
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/Src/CMakeFiles/RUN_TESTS.dir
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/Utilities/CMakeFiles/utilities.dir
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/Utilities/CMakeFiles/PACKAGE.dir
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/Utilities/CMakeFiles/RUN_TESTS.dir

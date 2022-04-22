@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/Utilities/CMakeLists.txt
+C:/Users/tonyl/Documents/Libraries/CMake/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/tonyl/Documents/Libraries/CMake/share/cmake-3.22/Modules/FindPackageMessage.cmake
+C:/Users/tonyl/Documents/Libraries/opencv/build/x64/vc15/lib/OpenCVConfig-version.cmake
+C:/Users/tonyl/Documents/Libraries/opencv/build/x64/vc15/lib/OpenCVConfig.cmake
+C:/Users/tonyl/Documents/Libraries/opencv/build/x64/vc15/lib/OpenCVModules-debug.cmake
+C:/Users/tonyl/Documents/Libraries/opencv/build/x64/vc15/lib/OpenCVModules-release.cmake
+C:/Users/tonyl/Documents/Libraries/opencv/build/x64/vc15/lib/OpenCVModules.cmake

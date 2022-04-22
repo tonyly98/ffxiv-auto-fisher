@@ -1,0 +1,10 @@
+^C:\USERS\TONYL\DOCUMENTS\GITPROJECT\FFXIV-AUTO-FISHER\CMAKELISTS.TXT
+setlocal
+C:\Users\tonyl\Documents\Libraries\CMake\bin\cmake.exe -SC:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher -BC:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build --check-stamp-file C:/Users/tonyl/Documents/GitProject/ffxiv-auto-fisher/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
